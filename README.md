@@ -1,7 +1,7 @@
 # movielibrary
 Simple CRUD app using Java, Spring Boot, MySql, Docker, REST API
 
-Projekt na zajęcia "Projektowanie aplikacji internetowych".
+Projekt na zajęcia "Programowanie aplikacji internetowych".
 Autorzy: Konrad Cieślak, Artur Gómułka, Magdalena Kur
 
 Screenshots:
